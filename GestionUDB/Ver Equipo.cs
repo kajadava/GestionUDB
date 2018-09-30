@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace GestionUDB
 {
-    public partial class Form1 : Form
+    public partial class Ver_Equipo : Form
     {
-        public Form1()
+        public Ver_Equipo()
         {
             InitializeComponent();
+        }
+
+        private void label19_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

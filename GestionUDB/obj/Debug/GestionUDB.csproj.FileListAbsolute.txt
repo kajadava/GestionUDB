@@ -1,0 +1,16 @@
+C:\Users\usuario\Documents\GitHub\GestionUDB\GestionUDB\obj\Debug\GestionUDB.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\GestionUDB\GestionUDB\obj\Debug\GestionUDB.ingresarequipo.resources
+C:\Users\usuario\Documents\GitHub\GestionUDB\GestionUDB\obj\Debug\GestionUDB.menuprincipal.resources
+C:\Users\usuario\Documents\GitHub\GestionUDB\GestionUDB\obj\Debug\GestionUDB.Properties.Resources.resources
+C:\Users\usuario\Documents\GitHub\GestionUDB\GestionUDB\obj\Debug\GestionUDB.Ver_Equipo.resources
+C:\Users\usuario\Documents\GitHub\GestionUDB\GestionUDB\obj\Debug\GestionUDB.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\GitHub\GestionUDB\GestionUDB\obj\Debug\GestionUDB.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\GestionUDB\GestionUDB\bin\Debug\GestionUDB.exe.config
+C:\Users\usuario\Documents\GitHub\GestionUDB\GestionUDB\bin\Debug\GestionUDB.exe
+C:\Users\usuario\Documents\GitHub\GestionUDB\GestionUDB\bin\Debug\GestionUDB.pdb
+C:\Users\usuario\Documents\GitHub\GestionUDB\GestionUDB\bin\Debug\MySql.Data.dll
+C:\Users\usuario\Documents\GitHub\GestionUDB\GestionUDB\bin\Debug\Google.Protobuf.dll
+C:\Users\usuario\Documents\GitHub\GestionUDB\GestionUDB\bin\Debug\MySql.Data.xml
+C:\Users\usuario\Documents\GitHub\GestionUDB\GestionUDB\obj\Debug\GestionUDB.csproj.CopyComplete
+C:\Users\usuario\Documents\GitHub\GestionUDB\GestionUDB\obj\Debug\GestionUDB.exe
+C:\Users\usuario\Documents\GitHub\GestionUDB\GestionUDB\obj\Debug\GestionUDB.pdb
