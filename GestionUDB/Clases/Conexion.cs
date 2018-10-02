@@ -15,7 +15,7 @@ namespace GestionUDB
         //constructor vacío para iniciar una nueva conexión
         public Conexion()
         {
-            conexion = new MySqlConnection("server=localhost; port=3306; database=gestion; Uid=root; pwd=1234; SslMode=none");
+            conexion = new MySqlConnection("server=localhost; port=3306; database=gestion; Uid=root; pwd=misil100; SslMode=none");
         }
 
         //método para conectar a la base de datos, retorna true si la conexión es exitosa

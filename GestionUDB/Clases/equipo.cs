@@ -60,5 +60,20 @@ namespace GestionUDB.Clases
 
 
         }
+        public static void listarequipo(MySqlConnection conexion, DataGridView dgv)
+        {
+            DataTable datat = new DataTable();
+            try
+            {
+                MySqlCommand comando = new MySqlCommand(string.Format(("select * from equipo")), conexion);
+                MySqlDataAdapter dataAdapter = new MySqlDataAdapter(comando);
+                dataAdapter.Fill(datat);
+                dgv.DataSource = datat;
+            }
+            catch (MySqlException ex)
+            {
+                throw ex;
+            }
+        }
     }
 }
